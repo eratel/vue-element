@@ -1,7 +1,7 @@
-# awesomepos
-
-> A Vue.js project
-
+# 简单实现快餐系统
+ 
+> ABHSY/Jason
+ 
 ## Build Setup
 
 ``` bash
